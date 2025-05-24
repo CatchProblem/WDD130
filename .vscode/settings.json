@@ -7,5 +7,6 @@
         "**/Thumbs.db": true,
         "images/uganda.jpg": true
     },
-    "explorerExclude.backup": {}
+    "explorerExclude.backup": {},
+    "liveServer.settings.port": 5501
 }
